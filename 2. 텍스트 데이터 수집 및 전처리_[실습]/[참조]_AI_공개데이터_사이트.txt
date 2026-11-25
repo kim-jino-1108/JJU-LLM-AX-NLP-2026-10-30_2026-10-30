@@ -1,0 +1,54 @@
+AI 공부에 필요한 공개 데이터 사이트 정리
+==================================================
+
+1. 국내 데이터 (한국어·한국 데이터)
+--------------------------------------------------
+- AI 허브 (aihub.or.kr)
+  한국지능정보사회진흥원(NIA) 운영. 텍스트·음성·이미지·영상 등 AI 학습용 데이터.
+  데이터별 신청·승인 필요, 이용 조건 상이.
+
+- 모두의 말뭉치 (corpus.korean.go.kr)
+  국립국어원 운영. 신문·구어·메신저·요약·글쓰기 등 한국어 말뭉치 112종 공개.
+  온라인 약정서 작성 후 승인을 받아야 내려받을 수 있음.
+
+- 한국어 학습자 말뭉치 나눔터 (kcorpus.korean.go.kr)
+  국립국어원 운영. 한국어 학습자 말뭉치.
+
+- 공공데이터포털 (data.go.kr)
+  정부·공공기관 데이터(파일, Open API). 정형 데이터 분석 실습에 적합.
+
+- 국가통계포털 KOSIS (kosis.kr)
+  통계청 운영. 인구·경제·사회 통계.
+
+- 서울 열린데이터광장 (data.seoul.go.kr)
+  서울시 교통·환경·생활 데이터.
+
+- Korpora (pypi.org/project/Korpora)
+  파이썬 패키지. 모두의 말뭉치, KorNLI, KorSTS, AI 허브 번역 말뭉치 등
+  여러 한국어 말뭉치를 한 곳에서 불러오는 도구.
+
+
+2. 해외 범용 데이터
+--------------------------------------------------
+- Hugging Face Datasets (huggingface.co/datasets)
+  NLP·LLM·음성·이미지 데이터. datasets 라이브러리로 바로 불러올 수 있음.
+
+- Kaggle Datasets (kaggle.com/datasets)
+  다양한 분야의 데이터, 노트북, 대회. 입문용으로 좋음.
+
+- UCI Machine Learning Repository (archive.ics.uci.edu)
+  고전 머신러닝 실습 데이터 (Iris, Adult 등).
+
+- OpenML (openml.org)
+  머신러닝 실험용 데이터와 벤치마크.
+
+- Google Dataset Search (datasetsearch.research.google.com)
+  웹에 공개된 데이터셋 검색 엔진.
+
+- AWS Open Data Registry (registry.opendata.aws)
+  대용량 공개 데이터 (위성, 유전체, 웹 크롤링 등).
+
+- Common Crawl (commoncrawl.org)
+  대규모 웹 크롤링 데이터. LLM 사전학습 데이터의 원천으로 많이 쓰임.
+
+
